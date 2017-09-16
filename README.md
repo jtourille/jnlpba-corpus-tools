@@ -1,1 +1,1 @@
-# jnlpba-corpus-tools
+# JNLPBA Tools
